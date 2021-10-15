@@ -1,3 +1,3 @@
-# R package: TempCont 
-Package to estimate the temporal contribution of predictors to the observed trend in a response variable using mixed models.
+# R package: ecidim 
+Package to estimate the correlation and information dimensions from time series.
 Package under construction. 
